@@ -4,5 +4,5 @@ fn main() {
 }
 
 fn addHola(wrd: int) -> int {
-  return wrd + 3;
+  wrd + 3
 }
